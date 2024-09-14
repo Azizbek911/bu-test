@@ -1,0 +1,21 @@
+{
+  "name": "moviebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Azizbek Jumaboyev (BlackHole)",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.3",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "sqlite3": "^5.1.7",
+    "telegraf": "^4.16.3",
+    "uuid": "^10.0.0"
+  }
+}
